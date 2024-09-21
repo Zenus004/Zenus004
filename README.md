@@ -42,7 +42,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zenus004/Zenus004/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zenus004/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -59,11 +59,3 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenus004&" alt="zenus004" /></p>
 
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
