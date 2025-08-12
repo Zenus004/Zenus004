@@ -4,22 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Satyajyoti!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenus004" alt="zenus004" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Spring Boot, Android Dev**
+- 🌱 I’m currently learning **Angular, Spring Boot, Android Dev, React**
 
 - 📫 How to reach me **satyajyoti05@gmail.com**
 
-- ⚡ Fun fact **I don't know what am i doing but doing**
 <hr/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/satyajyoti-mohanty-716674266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyajyoti-mohanty-716674266" height="30" width="40" /></a>
-<a href="https://instagram.com/zenus_dilhevia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zenus_dilhevia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/satyajyoti05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satyajyoti05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/satyajyoti_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyajyoti_" height="30" width="40" /></a>
 </p>
 <hr/>
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
@@ -29,8 +25,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenus004&show_icons=true&locale=en&layout=compact" alt="zenus004" /></p>
+<p><img align="left" src="https://github-readme-stats-drab-eta-94.vercel.app/api/top-langs/?username=Zenus004&layout=donut-vertical&show_icons=true&locale=en" alt="zenus004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenus004&show_icons=true&locale=en" alt="zenus004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-drab-eta-94.vercel.app/api?username=zenus004&show_icons=true&locale=en" alt="zenus004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenus004&" alt="zenus004" /></p>
+<p align="left"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-gold.vercel.app?user=Zenus004" alt="GitHub Streak" /></a></p>
