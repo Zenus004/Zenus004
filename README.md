@@ -6,7 +6,9 @@
 
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenus004" alt="zenus004" /></a> </p>
+<p align="center">
+  <img src="https://github-trophies-two.vercel.app/?username=Zenus004" alt="GitHub Trophies" />
+</p>
 
 - 🌱 I’m currently learning **Angular, Spring Boot, Android Dev, React**
 
