@@ -1,34 +1,150 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zenus004.Zenus004" />
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Satyajyoti!;" />
-</h1>
+<!-- Purple Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Satyajyoti%20Mohanty&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a78bfa" alt="header"/>
 
-<h3 align="center">A passionate web developer from India</h3>
-
-<p align="center">
-  <img src="https://github-trophies-two.vercel.app/?username=Zenus004" alt="GitHub Trophies" />
+<p>
+  <img align="right" src="https://komarev.com/ghpvc/?username=Zenus004&label=PROFILE+VIEWS&color=7c3aed&style=flat-square&labelColor=0d1117" alt="profile views"/>
+  &nbsp;
 </p>
 
-- 🌱 I’m currently learning **Angular, Spring Boot, Android Dev, React**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=%3E+Initializing+developer+profile...;%3E+Loading+skills%3A+React+%7C+Java+%7C+Spring+Boot...;%3E+Status%3A+Always+learning%2C+always+building+%F0%9F%9A%80;%3E+Mission%3A+Turn+ideas+into+elegant+solutions+%E2%9C%A8;%3E+Location%3A+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
-- 📫 How to reach me **satyajyoti05@gmail.com**
+</div>
 
-<hr/>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/satyajyoti-mohanty-716674266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyajyoti-mohanty-716674266" height="30" width="40" /></a>
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; ABOUT ME
+
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```typescript
+const satyajyoti = {
+  name:       "Satyajyoti Mohanty",
+  location:   "India 🇮🇳",
+  role:       "Full Stack Developer",
+  learning:   ["Angular", "Spring Boot", "Android Dev"],
+  contact:    "satyajyoti05@gmail.com",
+  motto:      "Build. Break. Learn. Repeat."
+};
+```
+
+- 🔭 Currently building full-stack apps with **React** & **Spring Boot**
+- 📱 Exploring **Android Development** with Kotlin
+- 🧠 Passionate about clean architecture & smart UI/UX
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; CONNECT WITH ME
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://linkedin.com/in/satyajyoti-mohanty-716674266" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
+        <br/><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="mailto:satyajyoti05@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
+        <br/><sub><b>Gmail</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> &nbsp; TECH STACK
+
+<div align="center">
+
+### ─── 🌐 FRONTEND ───
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind&theme=dark" alt="Frontend Stack"/>
 </p>
-<hr/>
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<hr/>
+### ─── ⚙️ BACKEND & MOBILE ───
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,kotlin,androidstudio&theme=dark" alt="Backend Stack"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats-drab-eta-94.vercel.app/api/top-langs/?username=Zenus004&layout=donut-vertical&show_icons=true&locale=en" alt="zenus004" /></p>
+### ─── 🗄️ DATABASES & CLOUD ───
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-drab-eta-94.vercel.app/api?username=zenus004&show_icons=true&locale=en" alt="zenus004" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws&theme=dark" alt="Database Stack"/>
+</p>
 
-<p align="left"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-gold.vercel.app?user=Zenus004" alt="GitHub Streak" /></a></p>
+### ─── 🔧 TOOLS & AI/ML ───
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,arduino,opencv,tensorflow&theme=dark" alt="Tools Stack"/>
+</p>
+
+<br/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> &nbsp; GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats-drab-eta-94.vercel.app/api?username=zenus004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub Stats"/>
+&nbsp;
+<img height="200" src="https://github-readme-stats-drab-eta-94.vercel.app/api/top-langs/?username=Zenus004&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+
+<br/>
+
+<img height="200" src="https://github-readme-streak-stats-eight-gold.vercel.app?user=Zenus004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a78bfa&dates=c9d1d9" alt="GitHub Streak"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-trophies-two.vercel.app/?username=Zenus004&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+## 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zenus004&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+## 💡 DEV QUOTE OF THE DAY
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,70:0d1b2a,100:0a0a0f&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00d4ff&fontAlignY=65" alt="footer"/>
+
+
+</div>
